@@ -49,7 +49,7 @@ function Resultado(props: {pesquisar: string|null}) {
             generos: ["Crime", "Mystery", "Thriller"],
             imgCapaPath: "https://image.tmdb.org/t/p/w300/74xTEgt7R36Fpooo50r9T25onhq.jpg",
             diretor: 'Matt Reeves',
-            // duracao: '2h 56m',
+            duracao: '2h 56m',
             avaliacao: '7,9',
         }
     ];
