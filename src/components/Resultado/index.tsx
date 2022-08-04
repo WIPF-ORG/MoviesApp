@@ -43,14 +43,6 @@ function Resultado(props: {pesquisar: string|null}) {
             diretor: 'Byron Howard',
             duracao: '1h 42m',
             avaliacao: '7,7',
-        },
-        {
-            nome: "The Batman",
-            generos: ["Crime", "Mystery", "Thriller"],
-            imgCapaPath: "https://image.tmdb.org/t/p/w300/74xTEgt7R36Fpooo50r9T25onhq.jpg",
-            diretor: 'Matt Reeves',
-            duracao: '2h 56m',
-            avaliacao: '7,9',
         }
     ];
 
