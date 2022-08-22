@@ -42,7 +42,7 @@ function Resultado(props: {pesquisar: string|null}) {
             imgCapaPath: "https://image.tmdb.org/t/p/w300/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg",
             diretor: 'Byron Howard',
             duracao: '1h 42m',
-            avaliacao: '7,7',
+            avaliacao: '9',
         }
     ];
 
